@@ -12,6 +12,8 @@ Create a `.env` file in the root of the project with the following contents:
 PORT="8080"
 ```
 
+This sets the port to 8080. We should also be adding some tests to the project.
+
 Run the server:
 
 ```bash
