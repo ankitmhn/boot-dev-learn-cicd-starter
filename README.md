@@ -1,5 +1,7 @@
 # learn-cicd-starter (Notely)
 
+![code coverage badge](https://github.com/ankitmhn/boot-dev-learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
+
 This repo contains the starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
 
 ## Local Development
@@ -11,6 +13,8 @@ Create a `.env` file in the root of the project with the following contents:
 ```bash
 PORT="8080"
 ```
+
+This sets the port to 8080. We should also be adding some tests to the project.
 
 Run the server:
 
